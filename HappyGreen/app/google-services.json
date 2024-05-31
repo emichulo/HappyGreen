@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "511752886442",
+    "project_id": "happygreen-71102",
+    "storage_bucket": "happygreen-71102.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511752886442:android:efce3ab46be0730dfe98d3",
+        "android_client_info": {
+          "package_name": "com.example.happygreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511752886442-22j0uoocb0q76csa8f2ph9776me5nk8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcNkMKRG2l1ODbSPSpp0DKKSqOSZpdQeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511752886442-22j0uoocb0q76csa8f2ph9776me5nk8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
